@@ -1,0 +1,11 @@
+﻿  laba5(asm).cpp
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(12,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(13,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(13,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(13,7): error C2065: eax: необъявленный идентификатор
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(14,3): error C2065: add: необъявленный идентификатор
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(14,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(14,7): error C2065: eax: необъявленный идентификатор
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(15,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(15,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(15,10): error C2065: eax: необъявленный идентификатор

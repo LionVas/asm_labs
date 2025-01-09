@@ -1,0 +1,4 @@
+﻿  laba5(asm).cpp
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(45,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Lionb\source\repos\laba5(asm)\laba5(asm).cpp(73,8): warning C4244: =: преобразование "unsigned __int64" в "double", возможна потеря данных
+  laba5(asm).vcxproj -> C:\Users\Lionb\source\repos\laba5(asm)\Debug\laba5(asm).exe
